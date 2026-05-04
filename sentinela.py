@@ -4,4 +4,3 @@ while true:
     if comando == "sair": 
         break
     print(f"executando: {comando}")
-    
