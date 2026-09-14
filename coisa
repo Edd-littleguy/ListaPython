@@ -1,0 +1,25 @@
+🚀 FASE 1: Construção Autônoma da Estrutura Base
+(Desenvolva diretamente no main.py sem o uso de IA)
+
+Etapa 1: Cadastro da Startup e Projetos (Dicionários e Listas)
+A startup incubada se chama "CyberPulse Tech".
+
+Crie um Dicionário chamado startup com as chaves:
+"nome": "CyberPulse Tech"
+"segmento": "Segurança da Informação"
+"ano_adesao": "2026"
+Crie uma Lista chamada solucoes_ativas com 2 produtos da empresa: ["Firewall IA", "Scan de Vulnerabilidades"].
+Exiba no terminal com print():
+O nome da startup e seu segmento.
+O primeiro produto da lista (índice 0).
+Etapa 2: Mapeamento das Bancadas de Trabalho (Matriz 2D)
+O andar da incubadora possui 4 bancadas organizadas em uma matriz 2x2.
+
+1 = Bancada Ocupada
+0 = Bancada Livre
+Crie uma Matriz 2D (lista de listas) chamada bancadas:
+Linha 0 (Setor Norte): Bancada N1 ocupada (1), Bancada N2 livre (0).
+Linha 1 (Setor Sul): Bancada S1 livre (0), Bancada S2 ocupada (1).
+Exiba no terminal com print() o status de cada uma das 4 posições (bancadas[0][0], bancadas[0][1], bancadas[1][0] e bancadas[1][1]).
+Adicione uma legenda no print() informando que 1 = Ocupado e 0 = Livre.
+  No espaço abaixo informe seu o endereço do repositório Github.
